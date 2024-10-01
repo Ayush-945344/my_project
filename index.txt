@@ -1,0 +1,2 @@
+"Q1: What is Java?\nA1: Java is a high-level, class-based, object-oriented programming language." 
+"Q2: What is the JVM?\nA2: The Java Virtual Machine (JVM) is an abstract machine that enables a computer to run Java programs." 
